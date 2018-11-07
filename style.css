@@ -1,0 +1,81 @@
+body {
+  font-family: 'Mali';
+  background: linear-gradient(to right, #1CB5E0, #000046);
+}
+
+h1 {
+  color: #25283D;
+  font-family: 'Mali', cursive;
+  font-size: 45px;
+}
+
+h2{
+color: #FED766;
+font-family: 'Mali';
+font-size: 42px;
+}
+
+h3{
+  color: #FED766;
+  font-family: 'Mali';
+  font-size: 36px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: incline-block;
+  font-size: 42px;
+}
+
+div {
+  background: linear-gradient(to bottom, #2c3e50, #bdc3c7);
+  border: 1px solid grey;
+  border-bottom: 30px dashed #0E1C36;
+  padding: 20px 100px;
+  margin: 60px auto;
+  text-align: center;
+  width: 500px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 3px yellow;
+}
+
+.btn-blue{
+  background-color: #FED766;
+  color: blue;
+  padding: 8px 16px;
+  border-radius: 20px;
+}
+
+.text_center{
+  text-align: center;
+}
+
+.list_inline > li{
+margin: 0px 8px;
+}
+
+.mangas{
+  width: 100%;
+}
+
+.MTG{
+  width: 100%;
+}
+
+.Pokemon{
+  width: 100%;
+}
+
+.Jeux_Videos{
+  width: 100%
+}
+
+.erza{
+  width: 70%;
+}
